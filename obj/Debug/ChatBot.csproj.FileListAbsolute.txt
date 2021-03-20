@@ -1,0 +1,5 @@
+C:\Users\Bacha\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\Bacha\source\repos\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\Bacha\source\repos\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\Bacha\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\Bacha\source\repos\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
